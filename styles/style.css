@@ -39,7 +39,7 @@
   font-weight: bold;
 }
 
-.header__subtitle-container {
+.header__subtitle {
   z-index: 3;
   position: absolute;
   width: 388px;

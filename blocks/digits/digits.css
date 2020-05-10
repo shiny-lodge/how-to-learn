@@ -1,0 +1,9 @@
+.digits {
+  margin: 100px 0;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}

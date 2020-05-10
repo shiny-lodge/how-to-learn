@@ -1,0 +1,15 @@
+@import url(./__triangle/kaufman__trangle.css);
+
+.kaufman {
+  position: relative;
+  padding: 90px 0;
+  min-height: fit-content;
+  width: 100%;
+  background-color: #1f1f1f;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  overflow: hidden;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}

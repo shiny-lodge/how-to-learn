@@ -4,4 +4,10 @@
   height: 38px;
   text-decoration: none;
   color: black;
+  opacity: 1;
+  transition: opacity 0.5s ease-out;
+}
+
+.resources__logo:hover {
+  opacity: 0.7;
 }

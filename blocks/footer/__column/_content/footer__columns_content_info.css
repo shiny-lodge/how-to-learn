@@ -1,0 +1,8 @@
+.footer__column_content_info {
+  flex-basis: auto;
+  list-style: none;
+  flex-direction: column;
+  margin: 0 0 16px;
+  padding: 0;
+
+}

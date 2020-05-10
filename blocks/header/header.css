@@ -13,4 +13,5 @@
   display: flex;
   align-items: center;
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  overflow: hidden;
 }
